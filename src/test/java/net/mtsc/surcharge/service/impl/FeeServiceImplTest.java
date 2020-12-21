@@ -1,7 +1,6 @@
 package net.mtsc.surcharge.service.impl;
 
 import net.mtsc.surcharge.service.FeeService;
-import net.mtsc.surcharge.service.impl.FeeServiceImpl;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

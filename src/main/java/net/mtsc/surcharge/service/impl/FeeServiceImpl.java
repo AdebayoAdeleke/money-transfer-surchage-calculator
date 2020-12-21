@@ -17,8 +17,6 @@ import java.util.List;
  * configuration and provides the methods the configuration file
  * and retrieve the corresponding charges.
  *
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
  */
 
 public class FeeServiceImpl implements FeeService {

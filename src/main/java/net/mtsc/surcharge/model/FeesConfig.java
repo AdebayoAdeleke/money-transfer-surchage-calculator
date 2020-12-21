@@ -2,10 +2,7 @@ package net.mtsc.surcharge.model;
 
 import java.util.List;
 
-/**
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
- */
+
 
 public class FeesConfig {
 

@@ -1,9 +1,6 @@
 package net.mtsc.surcharge.model;
 
-/**
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
- */
+
 
 public class Transaction {
 

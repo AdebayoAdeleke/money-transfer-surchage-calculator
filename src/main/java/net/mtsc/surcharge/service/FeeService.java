@@ -1,9 +1,5 @@
 package net.mtsc.surcharge.service;
 
-/**
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
- */
 
 public interface FeeService {
 

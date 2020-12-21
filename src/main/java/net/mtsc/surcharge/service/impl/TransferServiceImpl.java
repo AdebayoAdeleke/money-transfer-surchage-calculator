@@ -9,8 +9,6 @@ import net.mtsc.surcharge.service.TransferService;
  * A Transfer Service implementation class that
  * handles customer transfers.
  *
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
  */
 
 public class TransferServiceImpl implements TransferService {

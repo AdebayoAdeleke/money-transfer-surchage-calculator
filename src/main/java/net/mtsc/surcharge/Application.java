@@ -8,10 +8,6 @@ import net.mtsc.surcharge.service.impl.TransferServiceImpl;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
- */
 
 public class Application {
 

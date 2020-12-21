@@ -3,10 +3,7 @@ package net.mtsc.surcharge.service;
 
 import net.mtsc.surcharge.model.Transaction;
 
-/**
- * @author Fortunatus Ekenachi
- * @date 2020-04-07
- */
+
 public interface TransferService {
 
 
