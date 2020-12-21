@@ -1,15 +1,15 @@
-==========TRANSACTION SURCHARGE PROGRAM==========
+==========MONEY TRANSFER SURCHARGE PROGRAM==========
 
 This a Java program that computes the charge on an amount to be transferred
 by a customer and prints out the fee charge and the actual transfer amount.
 
 
 FOLDER STRUCTURE:
-There are two folders: production and src.
+There are two folders: target and src.
 
-The production folder
+The target folder
 ---------------------
-The production folder contains the compiled and executable program with the associated files including the fees configuration file.
+The target folder contains the compiled and executable program with the associated files including the fees configuration file.
 A README File on how to run the program is present in the folder.
 
 The src folder
@@ -26,10 +26,10 @@ HOW TO RUN THE PROGRAM
 
 1) Open a terminal and change current directory to this one containing executable program
 
-    e.g  $ cd ../TransactionSurcharge/production
+    e.g  $ cd ../MoneyTransferSurchargeCalculator/target
 
 2) Run the following command to start the program
 
-     java -jar TransactionSurcharge.jar
+     java -jar MoneyTransferSurchargeCalculator-1.0-SNAPSHOT.jar
 
 3) To terminate the program, just press Control C
